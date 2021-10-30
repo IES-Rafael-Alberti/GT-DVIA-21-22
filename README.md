@@ -1,7 +1,7 @@
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 # GT-DVIA-21-22
 Repositorio para compartir los materiales generados para el Curso de Especialización de Desarrollo de Videojuegos y Realidad Virtual e Inteligencia Artificial y Big Data del Grupo de Trabajo "DESARROLLO DE MATERIALES PARA LOS CE DVRV E IABD" del IES Rafael Alberti en el curso 2021-2022
-
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
