@@ -1,7 +1,7 @@
 # GT-DVIA-21-22
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-[![logo][logo-image]]
+![logo][logo-image]
 
 [logo-image]: https://github.com/IES-Rafael-Alberti/GT-DVIA-21-22/blob/main/logos/logo-github.png
 
