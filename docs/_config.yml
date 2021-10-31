@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: gdg-managua/jekyll-mdl
+remote_theme: gdgmanagua/jekyll-mdl
 plugins:
   - jekyll-feed
 
