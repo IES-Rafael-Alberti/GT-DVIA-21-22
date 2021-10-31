@@ -42,9 +42,9 @@ texture:
   date_format: "%b %-d, %Y"
 
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman # format: locale/username
+    #twitter: thelehhman
+    github:  IES-Rafael-Alberti/GT-DVIA-21-22
+    #linkedIn: in/thelehhman # format: locale/username
 
   style: red
   showPicker: false
