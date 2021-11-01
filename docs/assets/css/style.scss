@@ -44,12 +44,11 @@
             }
         }
     }
-    #red-alberti {background-color: #C10504;}
+    #red {background-color:red;}
     #blue { background-color: lightblue; }
     #black { background-color: #111; }
     #purple { background-color: rebeccapurple; }
     #green { background-color: mediumseagreen; }
-    #logo {background-image: '{{ site.baseurl }}/assets/textures/blue.jpg';}
 }
 {%- endif -%}
 // Textures
@@ -78,7 +77,7 @@
 }
 
 .texture-red {
-    background-image: url('{{ site.baseurl }}/assets/textures/red.jpg');
+    background-image: url('{{ site.baseurl }}/assets/textures/blue.jpg');
 }
 
 .texture-purple {
