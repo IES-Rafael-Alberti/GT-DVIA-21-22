@@ -1,4 +1,4 @@
-# Índice
+# Tabla de contenidos
 
 - [5048. Programación y motores de videojuegos](#5048-programación-y-motores-de-videojuegos)
 - [5049. Diseño gráfico 2D y 3D](#5049-diseño-gráfico-2d-y-3d)
