@@ -8,7 +8,7 @@ Esta mañana ha tenido lugar la primera reunión del Grupo de Trabajo "DESARROLL
 
 Se ha desarrollado en el entorno virtual [horizon Workrooms](https://www.oculus.com/workrooms/) de Oculus. Así, los participantes han realizado el proyecto del Grupo de Trabajo a la vez que exploraban las opciones de esta tecnología propia del Curso de Especialización de Desarrollo de Videojuegos y Realidad Virtual.
 
-![Esperando a los participantes](/assets/reunion1-esperando-participantes.jpeg)
+![Esperando a los participantes](assets/reunion1-esperando-participantes.jpeg)
 
 La reunión ha sido muy productiva, sacando adelante los siguientes puntos:
 - Revisión del proyecto del grupo de trabajo.
@@ -26,7 +26,7 @@ También se han alcanzado los siguientes acuerdos:
 - Se analizarán los materiales de los cursos de formación propuestos por los distintos CEP y se valorará el utilizar las mismas tecnologías o elegir otras.
 - Dentro del marco de trabajo que se va a elaborar para la creación de materiales, se tendrán en cuenta algunas opciones como eXeLearning.
 
-![Participantes en el entorno de realidad virtual a través de videoconferencia](/assets/reunion1-videoconferencia.jpeg)
+![Participantes en el entorno de realidad virtual a través de videoconferencia](assets/reunion1-videoconferencia.jpeg)
 
 Puedes acceder al material generado por el GT y al foro de discusión en los siguientes enlaces:
 - [Repositorio del GT](https://github.com/IES-Rafael-Alberti/GT-DVIA-21-22)
