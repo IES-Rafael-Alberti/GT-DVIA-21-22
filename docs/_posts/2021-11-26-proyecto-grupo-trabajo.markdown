@@ -26,7 +26,7 @@ También se han alcanzado los siguientes acuerdos:
 - Se analizarán los materiales de los cursos de formación propuestos por los distintos CEP y se valorará el utilizar las mismas tecnologías o elegir otras.
 - Dentro del marco de trabajo que se va a elaborar para la creación de materiales, se tendrán en cuenta algunas opciones como eXeLearning.
 
-![Participantes en el entorno de realidad virtual a través de videoconferencia](/GT-DVIA-21-22/docs/assets/reunion1-videoconferencia.jpeg)
+![Participantes en el entorno de realidad virtual a través de videoconferencia]({{ "/assets/reunion1-videoconferencia.jpeg" | relative_url }})
 
 Puedes acceder al material generado por el GT y al foro de discusión en los siguientes enlaces:
 - [Repositorio del GT](https://github.com/IES-Rafael-Alberti/GT-DVIA-21-22)
