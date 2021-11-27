@@ -8,7 +8,7 @@ Esta mañana ha tenido lugar la primera reunión del Grupo de Trabajo "DESARROLL
 
 Se ha desarrollado en el entorno virtual [horizon Workrooms](https://www.oculus.com/workrooms/) de Oculus. Así, los participantes han realizado el proyecto del Grupo de Trabajo a la vez que exploraban las opciones de esta tecnología propia del Curso de Especialización de Desarrollo de Videojuegos y Realidad Virtual.
 
-![Esperando a los participantes]({{ "/assets/images/reunion1-esperando-participantes.jpeg" | relative_url }})
+![Esperando a los participantes]({{ "/assets/images/reunion1-esperando-participantes.png" | relative_url }})
 
 La reunión ha sido muy productiva, sacando adelante los siguientes puntos:
 - Revisión del proyecto del grupo de trabajo.
