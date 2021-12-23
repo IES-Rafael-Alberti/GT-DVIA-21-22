@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FEEDBACK VERSION="200701" COMMENT="XML-Importfile for mod/feedback">
+     <ITEMS>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[7513]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Curso de formación cuyo material se evalúa]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Programación y motores de videojuegos|Diseño gráfico 2D y 3D|Programación en red e inteligencia artificial|Realidad virtual y realidad aumentada|Diseño, gestión, publicación y producción|Modelos de Inteligencia Artificial|Sistemas de aprendizaje automático|Programación de Inteligencia Artificial|Sistemas de Big Data|Big Data aplicado]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="textarea" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[7514]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[¿Cuáles son las tecnologías (programas, librerías, frameworks...) que se proponen en el curso para la impartición del módulo?]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[60|10]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[7515]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Pienso que en el material hay teoría suficiente, es decir, podría servir como bibliografía básica]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>0####Es insuficiente la cantidad de información escrita que se proporciona, habría que complementarlo bastante.|1####Hay poca información, pero está bastante bien estructurada y es una buena base sobre la que construir.|2####El material escrito no está mal, pero le daría un enfoque diferente.|3####Solamente faltaría complementarlo un poco para que sea directamente utilizable en el aula.|4####El material, tal cual está, es suficiente para utilizarlo como bibliografía básica.]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[7516]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Las prácticas guiadas propuestas están bien estructuradas y pueden utilizarse como actividades de aprendizaje]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>0####No se encuentra, o se encuentra de forma muy escasa, material de ese tipo.|1####Las prácticas no están mal, pero utilizaría una tecnología diferente.|2####La idea de las prácticas es buena, pero no están demasiado bien explicadas.|3####Las prácticas pueden servir como base, pero habría que realizar bastantes más que las complementen.|4####El material es muy bueno y prácticamente se podrían utilizar tal cual las prácticas.]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[7517]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[En el material se encuentran proyectos interesantes que llevar a cabo]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>0####No se encuentra ninguna propuesta de proyecto, o no son para nada interesantes.|1####Hay ideas interesantes, pero mal enfocadas según mi opinión.|2####Los proyectos parecen bastante buenos, pero sería necesario un análisis más profundo.|3####Se encuentran proyectos interesantes, pero un número bastante escaso.|4####Se encuentran proyectos muy interesantes y bien desarrollados.]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[7518]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Se realizan propuestas de evaluación aplicables]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>0####No se encuentra nada útil que pueda utilizarse para la evaluación.|1####Hay material que en ningún caso me plantearía utilizar para la evaluación.|2####En el curso se dan algunas ideas interesantes que habría que desarrollar.|3####Se encuentra material útil pero complicado de encajar en los criterios de evaluación del módulo.|4####Hay bastante material que puede utilizarse alineado con los criterios de evaluación.]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[7519]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Marca todos los tipos de recursos que se encuentran sobre el módulo]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[c>>>>>Vídeos explicativos teóricos|Vídeos explicativos con prácticas guiadas|Material escrito teórico|Material escrito con prácticas guiadas resueltas|Guiones de prácticas sin resolver|Propuesta de proyectos resueltos|Propuesta de proyectos sin resolver|Material para usar en conjunto entre distintos módulos]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="textarea" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[7520]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[¿Cuáles crees que son las fortalezas del material ofrecido en el curso?]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[60|8]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="textarea" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[7521]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[¿Cuáles crees que son las debilidades del material ofrecido en el curso?]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[60|8]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="textarea" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[7523]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[¿Propones utilizar las mismas tecnologías propuestas para la enseñanza del módulo? En caso negativo, detalla cuáles propones]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[60|8]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="textarea" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[7522]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Observaciones generales]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[60|10]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+     </ITEMS>
+</FEEDBACK>
