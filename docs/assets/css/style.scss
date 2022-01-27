@@ -64,15 +64,15 @@
     background-image: url('{{ site.baseurl }}/assets/textures/blue.jpg');
 
     h2 {
-        color: #ddd;
+        color: #ffe5ea;
     }
 
     .social i:hover {
-        color: #eee;
+        color: #ffe5ea;
     }
 
     .post-date {
-        color: #ccc;
+        color: #ffe5ea;
     }
 }
 
@@ -91,25 +91,25 @@
     background-image: url('{{ site.baseurl }}/assets/textures/green.jpg');
 
     .post-date {
-        color: #ccc;
+        color: #ffe5ea;
     }
 }
 
 .texture-red,
 .texture-purple {
     h2 {
-        color: #ccc;
+        color: #ffe5ea;
     }
 
     .social i {
-        color: #ddd;
+        color: #ffe5ea;
 
         &:hover {
-            color: lighten(#ddd, 7%);
+            color: lighten(#ffe5ea, 7%);
         }
     }
 
     .post-date {
-        color: #ddd;
+        color: #ffe5ea;
     }
 }
