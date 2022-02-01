@@ -21,7 +21,7 @@
 title: GT-DVIA-21-22
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Noticias y novedades del Grupo de Trabajo "DESARROLLO DE MATERIALES PARA LOS CE DVRV E IABD" del IES Rafael Alberti en el curso 2021-2022. Nuestro principal objetivo es crear contenido didáctico con licencia de cultura libre.
+  Noticias y novedades del Grupo de Trabajo "DESARROLLO DE MATERIALES PARA LOS CE DVRV E IABD" del IES Rafael Alberti en el curso 2021-2022.
 baseurl: "/GT-DVIA-21-22" # the subpath of your site, e.g. /blog
 url: "https://IES-Rafael-Alberti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 feed_items: 10
@@ -46,6 +46,7 @@ texture:
     #twitter: thelehhman
     github:  IES-Rafael-Alberti/GT-DVIA-21-22
     #linkedIn: in/thelehhman # format: locale/username
+    rss: rss
 
   style: red
   showPicker: false
