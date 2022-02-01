@@ -19,15 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: GT-DVIA-21-22
-email: your-email@example.com
+#email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Noticias y novedades del Grupo de Trabajo "DESARROLLO DE MATERIALES PARA LOS CE DVRV E IABD" del IES Rafael Alberti en el curso 2021-2022. Nuestro principal objetivo es crear contenido didáctico con licencia de cultura libre.
 baseurl: "/GT-DVIA-21-22" # the subpath of your site, e.g. /blog
 url: "https://IES-Rafael-Alberti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 #remote_theme: gdgmanagua/jekyll-mdl
