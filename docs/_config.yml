@@ -46,7 +46,6 @@ texture:
     #twitter: thelehhman
     github:  IES-Rafael-Alberti/GT-DVIA-21-22
     #linkedIn: in/thelehhman # format: locale/username
-    rss: rss
 
   style: red
   showPicker: false
