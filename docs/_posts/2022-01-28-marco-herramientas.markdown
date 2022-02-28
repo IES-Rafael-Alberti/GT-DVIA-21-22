@@ -16,7 +16,7 @@ Las herramientas que proponemos se han elegido en base a los siguientes criterio
 - **Facilidad de transformación**. Siguiendo con la idea de la apertura a la posibilidad de ampliaciones y cambios, las creaciones deben poderse transformar entre varios formatos, con el fin de no tener que volver a maquetar un trabajo previamente realizado.
 - **Estabilidad temporal**. La visualización de los materiales creados con las herramientas que se proponen no está supeditada a la presencia de una empresa o servidor en línea particular.
 - **Interactividad y accesibilidad**. Hemos buscado herramientas que no solamente generen materiales interactivos que fomenten la motivación para consultarlos, sino que también tengan en cuenta los estándares de accesibilidad.
-- **Diseño Universal de Aprendizaje (DUA)**. De forma que el alumnado tenga acceso a distintos tipos de recursos para ayudarle a comprender un concepto concreto y mantener la motivación por el aprendizaje.
+- **Múltiples formatos**. De forma que el alumnado tenga acceso a distintos tipos de recursos para ayudarle a comprender un concepto concreto y mantener la motivación por el aprendizaje.
 
 ![Presentación del marco de herramientas]({{ "/assets/images/reunion2-marco.png" | relative_url }})
 

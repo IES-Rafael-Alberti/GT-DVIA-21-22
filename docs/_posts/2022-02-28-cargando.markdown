@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Cargando..."
+date:   2022-02-28 11:00:19 +0200
+categories: anuncios
+---
+
+![Cargando...]({{ "/assets/images/loading.png" | relative_url }})
+
+El mes de febrero siempre es complicado en Formación Profesional. Se juntan evaluaciones finales con recuperaciones y prospección de empresas, con todo lo que eso conlleva. Es por eso que la actividad en torno al Grupo de Trabajo ha decaído, pero no está abandonada, solamente estamos "Cargando...".
+
+Seguimos analizando materiales de los cursos y ya comienzan a aparecer iniciativas de propuestas concretas de materiales didácticos. Para la coordinación utilizamos los proyectos que nos proporciona Github, que además permiten enlazar una petición directamente con un Issue en el que discutir y proporcionar seguimiento.
+
+Las propuestas actuales siguen la siguiente nomenclatura en la tarjeta:
+- **Título**:
+  - Curso de Especialización (DV o IA) - Módulo/s - Tipo de material y nombre identificativo
+- **Cuerpo**:
+  - Título del material.
+  - Bloques de contenido del módulo o módulos relacionados.
+  - Criterios de evaluación del módulo o módulos relacionados.
+  
+Por ejemplo, puedes consultar [esta propuesta del CE de Videjuegos](https://github.com/IES-Rafael-Alberti/GT-DVIA-21-22/issues/4) y [esta otra del de Inteligencia Artificial](https://github.com/IES-Rafael-Alberti/GT-DVIA-21-22/issues/5).
+
+Muy pronto llegarán las siguientes propuestas y las conclusiones de la próxima reunión de seguimiento.
+
+Recuerda que puedes acceder al material generado por el GT y al foro de discusión en los siguientes enlaces:
+- [Repositorio del GT](https://github.com/IES-Rafael-Alberti/GT-DVIA-21-22)
+- [Foro de discusión del GT](https://github.com/IES-Rafael-Alberti/GT-DVIA-21-22/discussions)
+
+Si tienes cualquier sugerencia de mejora, indicar un error o colaborar de alguna forma, anímate [creando un issue en el repositorio](https://github.com/IES-Rafael-Alberti/GT-DVIA-21-22/issues/new).
