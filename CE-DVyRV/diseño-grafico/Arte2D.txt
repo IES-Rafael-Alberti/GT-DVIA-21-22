@@ -1,0 +1,73 @@
+ARTE 2D 👾
+---------------------------------------------------------------------------
+01 - ¿Qué es el Arte 2D? 🎥
+     https://www.coursera.org/lecture/videojuegos-animation/arte-2d-jIcWP
+
+02 - Roles y carreras en el departamento de arte 🎥
+     https://www.youtube.com/watch?v=nwxgxQLCMs4
+
+
+	IMÁGENES: Formatos y tipos
+	-----------------------------------------------------------------------
+	03 - UT6 - Teoría 02 - Tipos de imágenes: Vectorial y Mapa de Bits 📗
+	     https://www.marcaprint.com/blog/diferencia-entre-bits-y-vectorial/
+
+	04 - UT6 - Teoría 03 - Formatos de imagen 📗
+	     https://ideakreativa.net/los-mejores-formatos-de-imagen-para-usar/
+
+
+	IMÁGENES: Edición
+	-----------------------------------------------------------------------
+	05 - UT6 - Teoría 04 - Programas profesionales de edición de imagen
+	     #1 Fotografía, Dibujos & Diseño
+		- Photoshop: http://adobe.com/photoshop 
+		
+	      Alternativas -----------------
+		- Gimp: https://www.gimp.org/ 
+		- Affinity Photo: https://affinity.serif.com/en-us/photo/ 
+		- Krita: https://krita.org/es/ 
+ 		- Photopea: https://www.photopea.com/
+
+ 	    #2 Ilustración, Dibujos & Diseño: 
+	      - Adobe Illustrator: https://www.adobe.com/illustrator 
+	     
+	      Alternativas -----------------
+		- InkScape: https://inkscape.org/es/ 
+		- Affinity Designer: https://affinity.serif.com/
+
+
+	    IMÁGENES: Edición de Mapa de Bits
+	    -----------------------------------------------------------------------
+	    06 - PHOTOSHOP VS AFFINITY PHOTO [¿Cuál es mejor? 🤔📸]
+	         https://www.youtube.com/watch?v=EGuhhKhoXJ0
+
+	    07 - UT6 - Teoría 05 - Apuntes clase - Affinity Photo ✍🏻
+		   https://docs.google.com/document/d/1N3xq49aQSOUzkBe9PVLlRJVxGEzFS4zH/edit
+
+	    08 - Tutoriales/manuales oficiales - Affinity Photo 🎥
+		   https://affinity.serif.com/es/learn/
+
+	    09 - Help - Affinity Photo ❓
+		   https://affinity.help/photo/es.lproj/index.html
+
+	    IMÁGENES: Edición de Imagen Vectorial
+	    ----------------------------------------------------------------------
+	    10 - Tutoriales/manuales oficiales - Affinity Designer 🎥
+		   https://affinity.serif.com/es/learn/
+
+	    11 - Help - Affinity Designer ❓
+		   https://affinity.help/designer/es.lproj/index.html#
+
+
+TUTORIAL Arte 2D para videojuegos 👾
+En este tutorial se explica un método para crear arte para videojuegos en 2D, 
+lo que se conoce como "2D assets" o "sprites" en inglés y en la comunidad 
+de desarrolladores de videojuegos en general, para utilizar en Unity o similar.
+--------------------------------------------------------------------------------
+12 - https://tips.clip-studio.com/es-es/articles/2484
+
+
+
+
+
+
